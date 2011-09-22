@@ -1,0 +1,3 @@
+Here's a dummy log file with
+  some stuff already in it.
+#############################
