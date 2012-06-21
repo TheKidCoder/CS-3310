@@ -1,5 +1,4 @@
 ﻿/* PROGRAM:  DisplayBackupFileProg
- * AUTHOR:  Dr. Kaminski
  * USED BY:  asgn 1's TestDriveProg (or manually by the developer)
  * DESCRIPTION:  This program reads the BINARY file, Backup.bin, and pretty-prints it to Log.txt file
  *      (appending it to the existinge, if there is one).
