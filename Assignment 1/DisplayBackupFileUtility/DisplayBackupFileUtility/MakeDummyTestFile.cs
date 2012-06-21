@@ -1,5 +1,4 @@
 ﻿/* CLASS:  MakeDummyTestFile    used by   DisplayBackupFileProg
- * AUTHOR:  Dr. Kaminski
  * DESCRIPTION:  
  *      This program produces a "dummy" BINARY file, Backup.bin, used to test my utility program.
  *      The data in this file:
